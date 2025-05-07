@@ -55,3 +55,12 @@ To run CUDA programs (GPU-based parallelism):
 ---
 
 ✅ You're all set! Happy Coding!
+
+---
+
+> **Note:** If you face issues running the code in Jupyter, open a terminal and run the following commands to install necessary dependencies:
+
+```bash
+conda install -y pandas numpy matplotlib scikit-learn
+pip install tensorflow
+```
